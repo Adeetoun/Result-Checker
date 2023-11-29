@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     background-image: url(../projects/images/bg-desktop.svg);
     background-color: hsl(257, 40%, 49%);
