@@ -26,6 +26,7 @@ img{
     max-width: 800px;
 }
 .containers {
+    position: relative;
     max-width: 1000px;
     padding:30px;
     margin: 50px auto;
@@ -81,7 +82,7 @@ img{
         max-width: 400px;
     }
     .containers{
-      max-width: 400px;
+      
       
     }
 }
